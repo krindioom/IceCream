@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IceCream", "IceCream.csproj", "{77B0AAEF-0DE1-402E-A190-A53CFBBB6491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCream.Domain", "..\IceCream.Domain\IceCream.Domain.csproj", "{93EB4DFB-DB3F-4EFB-B41C-B08F2F6B4277}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{5978C750-5494-4E10-8CE1-1568D0F46AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B0AAEF-0DE1-402E-A190-A53CFBBB6491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B0AAEF-0DE1-402E-A190-A53CFBBB6491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B0AAEF-0DE1-402E-A190-A53CFBBB6491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B0AAEF-0DE1-402E-A190-A53CFBBB6491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EB4DFB-DB3F-4EFB-B41C-B08F2F6B4277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EB4DFB-DB3F-4EFB-B41C-B08F2F6B4277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EB4DFB-DB3F-4EFB-B41C-B08F2F6B4277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EB4DFB-DB3F-4EFB-B41C-B08F2F6B4277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{93EB4DFB-DB3F-4EFB-B41C-B08F2F6B4277} = {5978C750-5494-4E10-8CE1-1568D0F46AF4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A1C208A-C461-4F3E-BEE5-EBB28290FDAE}
+	EndGlobalSection
+EndGlobal

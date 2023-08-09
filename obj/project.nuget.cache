@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ROITICJtn0vlIZGM5zXs9Op2ZTbFePGKmAkaM9PafB8IJNPOLlrGHOpRLCJoMd+skn9t/6WAWOM0OtwcQpBEXw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\yoerf\\Source\\Repos\\IceCream\\GIT\\IceCream.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\yoerf\\Source\\Repos\\IceCream\\IceCream.Domain\\IceCream.Domain.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\yoerf\\Source\\Repos\\IceCream\\IceCream.Domain\\IceCream.Domain.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
